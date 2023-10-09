@@ -5,5 +5,6 @@ public class Main {
         Mathematics.addTwoNumbers(22, 31);
         Mathematics.multiplyTwoNumbers(12, 22);
         Mathematics.averageOfThreeNumbers(2, 3, 5);
+        Mathematics.squareNumber(22);
     }
 }

@@ -11,4 +11,8 @@ public class Mathematics {
     public static void averageOfThreeNumbers(double t, double o, double c) {
         System.out.println((t + o + c) / 3);
     }
+
+    public static void squareNumber(int number) {
+        System.out.println(number * number);
+    }
 }
