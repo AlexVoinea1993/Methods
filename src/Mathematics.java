@@ -7,4 +7,8 @@ public class Mathematics {
     public static void multiplyTwoNumbers(int d, int c) {
         System.out.println(d * c);
     }
+
+    public static void averageOfThreeNumbers(double t, double o, double c) {
+        System.out.println((t + o + c) / 3);
+    }
 }
