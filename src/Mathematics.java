@@ -15,4 +15,13 @@ public class Mathematics {
     public static void squareNumber(int number) {
         System.out.println(number * number);
     }
+
+    public static void findBiggestNumber(int number1, int number2) {
+        if (number1 > number2) {
+            System.out.println(number1 + " is greater");
+        }else {
+            System.out.println(number2 + " is greater");
+        }
+    }
 }
+

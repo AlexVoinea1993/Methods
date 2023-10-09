@@ -6,5 +6,6 @@ public class Main {
         Mathematics.multiplyTwoNumbers(12, 22);
         Mathematics.averageOfThreeNumbers(2, 3, 5);
         Mathematics.squareNumber(22);
+        Mathematics.findBiggestNumber(22, 41);
     }
 }
