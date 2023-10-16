@@ -1,5 +1,7 @@
 package return_methods;
 
+import java.util.ArrayList;
+
 public class Class1 {
 
     public static int findMin(int number1, int number2) {
@@ -35,6 +37,16 @@ public class Class1 {
             return "The number is not divisible by 5 or 3";
         }
     }
+    public static int daysAndHours(int days) {
+        return 24 * days;
+    }
+
+//    Scrie o metoda care primeste o lista de numere si returneaza suma lor
+
+    public static int sumOfNumbers(ArrayList<Integer> numbers){
+        return 1;
+    }
 }
+
 
 
