@@ -1,3 +1,5 @@
+package void_methods;
+
 public class Mathematics_Void {
 
     public static void addTwoNumbers(int x, int y) {

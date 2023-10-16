@@ -1,3 +1,5 @@
+package void_methods;
+
 public class Homework {
 
     public static void theBiggerNumber(int number1, int number2, int number3) {
