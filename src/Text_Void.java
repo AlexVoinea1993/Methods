@@ -1,9 +1,5 @@
 public class Text_Void {
 
-//    //    Scrie o metoda care primeste 1 parametru String luna si afiseaza anotimpul corespunzator,
-//          lunii respective
-
-
     public static void monthsAndSeasonsIF(String month) {
         if (month.equalsIgnoreCase("Ianuarie") || month.equalsIgnoreCase("Februarie")
                 || month.equalsIgnoreCase("Decembrie")) {
